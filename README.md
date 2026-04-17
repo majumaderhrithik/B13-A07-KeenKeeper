@@ -16,6 +16,9 @@ KeenKeeper is a simple, beautiful web app that helps you stay consistent with th
 - **lucide-react** (icons)  
 
 ---
+## 👨‍💻 Built by
+
+**Hrithik Majumader**
 
 ## 🚀 How to Run Locally
 
