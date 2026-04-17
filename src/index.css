@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #F8FAFC;
+    color: #1a2e25;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+  }
+}
+
+@layer components {
+  .status-overdue {
+    @apply bg-red-100 text-red-700 border border-red-200;
+  }
+  .status-almost {
+    @apply bg-amber-100 text-amber-700 border border-amber-200;
+  }
+  .status-ontrack {
+    @apply bg-emerald-100 text-emerald-700 border border-emerald-200;
+  }
+
+  .dot-overdue {
+    @apply bg-red-500;
+  }
+  .dot-almost {
+    @apply bg-amber-500;
+  }
+  .dot-ontrack {
+    @apply bg-emerald-500;
+  }
+}
+
+/* Page transitions */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-enter {
+  animation: fadeUp 0.4s ease forwards;
+}
+
+/* Card hover effect */
+.friend-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.friend-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(36, 77, 63, 0.15);
+}
+
+/* Loading spinner */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+.spinner {
+  animation: spin 0.8s linear infinite;
+}
+
+/* Toast overrides */
+.custom-toast {
+  font-family: 'DM Sans', sans-serif !important;
+  border-radius: 12px !important;
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Sarah&backgroundColor=b6e3f4",
+    "email": "sarah.mitchell@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during freshman orientation at NYU. We bonded over a shared love of indie films and late-night ramen runs. Sarah is now a UX designer at a startup in Brooklyn.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Thompson",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Marcus&backgroundColor=c0aede",
+    "email": "marcus.t@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My former manager at TechCorp. Marcus taught me how to lead with empathy and always pushed me to take on new challenges. We still grab coffee every month.",
+    "goal": 30,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Priya&backgroundColor=ffdfbf",
+    "email": "priya.sharma@yahoo.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["childhood", "family friend"],
+    "bio": "Priya and I grew up on the same street and went to the same school from age 6. Even though she moved to London for her PhD, we try to video call every two weeks.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=James&backgroundColor=d1f4cc",
+    "email": "jwright.photo@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["hobby", "photography"],
+    "bio": "James and I met at a photography workshop in 2022. We go on monthly photo walks around the city. He has an incredible eye for street photography and inspires me constantly.",
+    "goal": 21,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 5,
+    "name": "Emma Wilson",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Emma&backgroundColor=ffd5dc",
+    "email": "emma.wilson.dev@gmail.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["college", "roommate"],
+    "bio": "Emma was my roommate for 3 years at university. We still share a Netflix account and text each other about every show we're watching. She's working as a software engineer in Seattle now.",
+    "goal": 14,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 6,
+    "name": "David Kim",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=David&backgroundColor=b6e3f4",
+    "email": "davidkim.music@gmail.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["music", "close friend"],
+    "bio": "David and I bonded over jazz at a local concert. He plays saxophone in a weekend band and drags me to every gig. Our friendship revolves around music, food, and terrible puns.",
+    "goal": 10,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 7,
+    "name": "Lisa Nakamura",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Lisa&backgroundColor=c0aede",
+    "email": "lisa.nakamura@proton.me",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["yoga", "wellness"],
+    "bio": "Lisa is my yoga instructor turned friend. She introduced me to meditation and morning routines that completely changed my mental health. We meet every week for a class and brunch after.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 8,
+    "name": "Alex Johnson",
+    "picture": "https://api.dicebear.com/7.x/personas/svg?seed=Alex&backgroundColor=ffdfbf",
+    "email": "alexjohnson.arch@gmail.com",
+    "days_since_contact": 31,
+    "status": "overdue",
+    "tags": ["college", "travel buddy"],
+    "bio": "Alex and I did a 3-week backpacking trip through Southeast Asia that forged an unbreakable bond. We planned to do one big trip every year. Life got in the way but we always come back.",
+    "goal": 21,
+    "next_due_date": "2026-03-30"
+  }
+]
