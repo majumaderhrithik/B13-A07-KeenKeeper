@@ -48,7 +48,7 @@ npm install
 
 # 4. Start the development server
 npm run dev
-Open http://localhost:5173 in my browser.
+Open http://localhost:5173 in your browser.
 
 🌐 Live Demo
 Live Link: https://keen-keeper-nu-three.vercel.app/
