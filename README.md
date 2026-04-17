@@ -11,9 +11,23 @@ KeenKeeper is a simple, beautiful web app that helps you stay consistent with th
 - **React 18** + **Vite**  
 - **React Router DOM v6** (for navigation)  
 - **Tailwind CSS** (styling + responsive design)  
-- **Recharts** (analytics pie chart)  
 - **react-hot-toast** (notifications)  
-- **lucide-react** (icons)  
+
+ ---
+
+
+## 🔥 Key Features
+
+1. **Smart Friend Dashboard**  
+   Beautiful illustrated friend cards with tags, status badges  and quick actions.
+
+2. **Relationship Stats**  
+   Real-time overview: Total Friends, On Track, Need Attention, and Interactions This Month — all at a glance.
+
+3. **Timeline & Tracking**  
+   Built-in timeline to log and visualize your interactions, keeping every relationship healthy and intentional.
+
+---
 
 ---
 ## 👨‍💻 Built by
@@ -85,18 +99,4 @@ keenKeeper/
 ├── tailwind.config.js
 └── vercel.json                  # SPA routing rules for Vercel
 
----
 
-
-## 🔥 Key Features
-
-1. **Smart Friend Dashboard**  
-   Beautiful illustrated friend cards with tags, status badges (On Track / Overdue / Almost Due), and quick actions.
-
-2. **Relationship Stats**  
-   Real-time overview: Total Friends, On Track, Need Attention, and Interactions This Month — all at a glance.
-
-3. **Timeline & Tracking**  
-   Built-in timeline to log and visualize your interactions, keeping every relationship healthy and intentional.
-
----
