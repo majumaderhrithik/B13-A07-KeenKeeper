@@ -51,7 +51,7 @@ npm run dev
 Open http://localhost:5173 in my browser.
 
 🌐 Live Demo
-Live Link: https://keen-keeper-nu-three.vercel.app
+Live Link: https://keen-keeper-nu-three.vercel.app/
 (Deployed on Vercel)
 
 ## 📁 Project Structure
